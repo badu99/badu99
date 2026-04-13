@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hi, I'm Badu 👋</h1>
+<h1 align="center">Hi, I'm Rajarshi Biswas 👋</h1>
 
 <p align="center">
   <b>AI & Data Science Graduate</b> • Passionate about Machine Learning & Intelligent Systems<br>
