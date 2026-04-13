@@ -73,7 +73,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔗 [Project Name 1](https://github.com/badu99/medical-rag-chatbot) | Brief description of what it does | Python, TensorFlow |
+| 🔗 [Medical Chatbot](https://github.com/badu99/medical-rag-chatbot) | Brief description of what it does | Python, TensorFlow |
 | 🔗 [Project Name 2](https://github.com/badu99/project2) | Brief description of what it does | Scikit-Learn, Pandas |
 | 🔗 [Project Name 3](https://github.com/badu99/project3) | Brief description of what it does | NLP, Transformers |
 
