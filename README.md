@@ -62,7 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=badu99&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badu99&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=badu99&theme=tokyonight&hide_border=true" width="55%" />
 </p>
