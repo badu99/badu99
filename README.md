@@ -73,9 +73,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔗 [Medical Chatbot](https://github.com/badu99/medical-rag-chatbot) | Brief description of what it does | Python, TensorFlow |
-| 🔗 [Project Name 2](https://github.com/badu99/project2) | Brief description of what it does | Scikit-Learn, Pandas |
-| 🔗 [Project Name 3](https://github.com/badu99/project3) | Brief description of what it does | NLP, Transformers |
+| 🔗 [Medical Chatbot](https://github.com/badu99/medical-rag-chatbot) | Built a RAG-based medical Q&A system indexing 13,000+ chunks from PubMed QA, Medical Meadow, and
+MedMCQA datasets using FAISS vector search. | Python, FAISS, MedCPT Embeddings, Groq LLM |
+| 🔗 [Fraudguard](https://github.com/badu99/fraudguard) | Built an end-to-end MLOps pipeline (train → track → serve → monitor → retrain) for credit card fraud detection
+on the Kaggle ULB dataset. | MLflow, FastAPI, Docker |
+| 🔗 [Researchmind](https://github.com/badu99/researchmind) | Designed a production-grade multi-agent system (Planner → Searcher → Summarizer → Critic → Writer) using
+LangGraph for autonomous research. | Langgraph, Langchain, Tavily |
 
 > ⭐ Replace these with your actual project names and links!
 
